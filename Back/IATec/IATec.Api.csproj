@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IATec.Application\IATec.Application.csproj" />
+    <ProjectReference Include="..\IATec.Domain\IATec.Domain.csproj" />
+    <ProjectReference Include="..\IATec.Infra\IATec.Infra.csproj" />
+  </ItemGroup>
+
+
+</Project>

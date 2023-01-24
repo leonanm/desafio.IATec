@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "o1g6CPvNLfueJK5ra/x5+uR1HeZmiSCOstNk5D0BlnXPaGWMCt1TzNsenpBNWGM/jHTD/fYR6UxYV41irwaRiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leona\\Documents\\Desafio.IATEC\\desafio\\Back\\IATec.Domain\\IATec.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leona\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\leona\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\leona\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\leona\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

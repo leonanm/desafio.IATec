@@ -1,0 +1,31 @@
+h1 {
+  font-size: 50px !important;
+  margin-left: 0.74rem;
+}
+
+.form-control {
+  width: 20rem !important;
+}
+
+.txtStyle {
+  display: flex !important;
+  margin-left: 1rem !important;
+}
+
+.btn1 {
+  margin-left: 1rem !important;
+}
+
+.btn2 {
+  margin-left: 35rem !important;
+}
+
+.gridStyle {
+  width: auto;
+  height: 100rem !important;
+}
+
+li{
+  margin-right: 20rem !important;
+  font-size: 20px !important;
+}

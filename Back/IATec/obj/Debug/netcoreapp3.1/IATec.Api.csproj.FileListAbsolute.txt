@@ -1,0 +1,102 @@
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\IATec.Api.exe
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\IATec.Api.deps.json
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\IATec.Api.runtimeconfig.json
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\IATec.Api.runtimeconfig.dev.json
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\IATec.Api.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\IATec.Api.pdb
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\obj\Debug\netcoreapp3.1\IATec.Api.csproj.AssemblyReference.cache
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\obj\Debug\netcoreapp3.1\IATec.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\obj\Debug\netcoreapp3.1\IATec.Api.AssemblyInfoInputs.cache
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\obj\Debug\netcoreapp3.1\IATec.Api.AssemblyInfo.cs
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\obj\Debug\netcoreapp3.1\IATec.Api.csproj.CoreCompileInputs.cache
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\obj\Debug\netcoreapp3.1\IATec.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\obj\Debug\netcoreapp3.1\IATec.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\obj\Debug\netcoreapp3.1\staticwebassets\IATec.Api.StaticWebAssets.Manifest.cache
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\obj\Debug\netcoreapp3.1\IATec.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\obj\Debug\netcoreapp3.1\IATec.Api.csproj.CopyComplete
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\obj\Debug\netcoreapp3.1\IATec.Api.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\obj\Debug\netcoreapp3.1\IATec.Api.pdb
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\obj\Debug\netcoreapp3.1\IATec.Api.genruntimeconfig.cache
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\IATec.Application.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\IATec.Domain.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\IATec.Application.pdb
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\IATec.Domain.pdb
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\IATec.Infra.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\IATec.Infra.pdb
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\obj\Debug\netcoreapp3.1\staticwebassets\IATec.Api.StaticWebAssets.Pack.cache
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.IATec.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.IATec.Api.props
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.IATec.Api.props
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.IATec.Api.props
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\IATec.Api.exe
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\IATec.Api.deps.json
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\IATec.Api.runtimeconfig.json
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\IATec.Api.runtimeconfig.dev.json
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\IATec.Api.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\IATec.Api.pdb
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\IATec.Application.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\IATec.Domain.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\IATec.Infra.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\IATec.Application.pdb
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\IATec.Domain.pdb
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\bin\Debug\netcoreapp3.1\IATec.Infra.pdb
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\obj\Debug\netcoreapp3.1\IATec.Api.csproj.AssemblyReference.cache
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\obj\Debug\netcoreapp3.1\IATec.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\obj\Debug\netcoreapp3.1\IATec.Api.AssemblyInfoInputs.cache
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\obj\Debug\netcoreapp3.1\IATec.Api.AssemblyInfo.cs
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\obj\Debug\netcoreapp3.1\IATec.Api.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\obj\Debug\netcoreapp3.1\IATec.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\obj\Debug\netcoreapp3.1\IATec.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\obj\Debug\netcoreapp3.1\staticwebassets\IATec.Api.StaticWebAssets.Manifest.cache
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\obj\Debug\netcoreapp3.1\staticwebassets\IATec.Api.StaticWebAssets.Pack.cache
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.IATec.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.IATec.Api.props
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.IATec.Api.props
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.IATec.Api.props
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\obj\Debug\netcoreapp3.1\IATec.Api.RazorTargetAssemblyInfo.cache
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\obj\Debug\netcoreapp3.1\IATec.Api.csproj.CopyComplete
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\obj\Debug\netcoreapp3.1\IATec.Api.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\obj\Debug\netcoreapp3.1\IATec.Api.pdb
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec\obj\Debug\netcoreapp3.1\IATec.Api.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\IATec.Application",
+    "\\IATec.Application\\Services",
+    "\\IATec.Tests",
+    "\\IATec.Tests\\Services"
+  ],
+  "SelectedNode": "\\IATec.Application\\Services\\VendaService.cs",
+  "PreviewInSolutionExplorer": false
+}

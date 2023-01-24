@@ -1,0 +1,30 @@
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec.Application\bin\Debug\netcoreapp3.1\IATec.Application.deps.json
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec.Application\bin\Debug\netcoreapp3.1\IATec.Application.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec.Application\bin\Debug\netcoreapp3.1\IATec.Application.pdb
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec.Application\bin\Debug\netcoreapp3.1\IATec.Domain.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec.Application\bin\Debug\netcoreapp3.1\IATec.Domain.pdb
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec.Application\obj\Debug\netcoreapp3.1\IATec.Application.csproj.AssemblyReference.cache
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec.Application\obj\Debug\netcoreapp3.1\IATec.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec.Application\obj\Debug\netcoreapp3.1\IATec.Application.AssemblyInfoInputs.cache
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec.Application\obj\Debug\netcoreapp3.1\IATec.Application.AssemblyInfo.cs
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec.Application\obj\Debug\netcoreapp3.1\IATec.Application.csproj.CoreCompileInputs.cache
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec.Application\obj\Debug\netcoreapp3.1\IATec.Application.csproj.CopyComplete
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec.Application\obj\Debug\netcoreapp3.1\IATec.Application.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec.Application\obj\Debug\netcoreapp3.1\IATec.Application.pdb
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec.Application\bin\Debug\netcoreapp3.1\IATec.Infra.dll
+C:\Users\Willi\OneDrive\Área de Trabalho\UNINOVE\IATec\IATec.Application\bin\Debug\netcoreapp3.1\IATec.Infra.pdb
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec.Application\bin\Debug\netcoreapp3.1\IATec.Application.deps.json
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec.Application\bin\Debug\netcoreapp3.1\IATec.Application.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec.Application\bin\Debug\netcoreapp3.1\IATec.Application.pdb
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec.Application\bin\Debug\netcoreapp3.1\IATec.Domain.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec.Application\bin\Debug\netcoreapp3.1\IATec.Infra.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec.Application\bin\Debug\netcoreapp3.1\IATec.Domain.pdb
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec.Application\bin\Debug\netcoreapp3.1\IATec.Infra.pdb
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec.Application\obj\Debug\netcoreapp3.1\IATec.Application.csproj.AssemblyReference.cache
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec.Application\obj\Debug\netcoreapp3.1\IATec.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec.Application\obj\Debug\netcoreapp3.1\IATec.Application.AssemblyInfoInputs.cache
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec.Application\obj\Debug\netcoreapp3.1\IATec.Application.AssemblyInfo.cs
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec.Application\obj\Debug\netcoreapp3.1\IATec.Application.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec.Application\obj\Debug\netcoreapp3.1\IATec.Application.csproj.CopyComplete
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec.Application\obj\Debug\netcoreapp3.1\IATec.Application.dll
+C:\Users\leona\Documents\Desafio.IATEC\desafio\Back\IATec.Application\obj\Debug\netcoreapp3.1\IATec.Application.pdb
